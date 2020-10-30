@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class PallidromeSeries {
 	public static void main(String[] args) {
+		System.out.println("Testing Pallindrone");
 		String s = "123321";
 		char a[] = s.toCharArray();
 		char n, t;
